@@ -1,8 +1,8 @@
 R Programming coursera course (r-prog005): Programming Assignment 2 hand-over
-
-
-original assignment description follows
 -------------------------
+original assignment description follows
+
+
 
 ### Introduction
 
